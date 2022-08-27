@@ -1,2 +1,4 @@
-# simple-slider
-Simple Slider
+# Simple Slider
+
+Simple slider created with html/css/js. 
+
